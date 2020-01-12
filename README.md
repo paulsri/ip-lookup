@@ -6,3 +6,5 @@ AWS API Gateway + Lamba + JavaScript IP Lookup
 * create pushover account
 * use index.js as your lamba code
 * use embed.js on your website
+
+note: yes, this is horribly bad code.
